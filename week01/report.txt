@@ -1,0 +1,2 @@
+#nugraha aditya pradana
+the task for the week 01 is an introduction to Git, CLI and Scripting
