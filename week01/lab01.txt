@@ -20,3 +20,4 @@ drwxr-xr-x  2 nugraha.aditya StafCS 4096 Feb 16 12:31 week09
 drwxr-xr-x  2 nugraha.aditya StafCS 4096 Feb 16 12:32 week10
 drwxr-xr-x  2 nugraha.aditya StafCS 4096 Feb 16 12:33 xtra
 /home/fasilkom/mahasiswa/n/nugraha.aditya/os171/week01
+Today is 16 Feb 2017 at 14:46:18
