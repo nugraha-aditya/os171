@@ -1,0 +1,8 @@
+w01-170214-10-LR-About: Introduction to Intelectual Property Right, From: Lecturer
+w01-170214-11-LR-About: Introduction to Bash scripting and demo, From : Lecturer
+w01-170216-10-LR-About: Continuation of Bash scripting, From : Lecturer
+w01-170216-13-LR-About: Basic scripting, From : Arsip Bahan Ajar Lama, week-02-scripting-1
+w01-170216-14-PS-About: week 01 task, CLI GIT and Scripting
+w01-170217-10-LR-About: Basic scripting, From : Arsip Bahan Ajar Lama, week-02-scripting-2
+w01-170218-08-PS-About: Additional task for log
+
