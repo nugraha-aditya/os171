@@ -1,0 +1,7 @@
+week03-170301-17-LR-About : BIOS and The UEFI From : the additional BIOS and UEFI.pdf
+pdf file from week 03 task forum
+week03-170301-19-LR-About : BIOS and UEFI From : ETC 300 (video)
+week03-170301-20-LR-About : BIOS process From : Linux Booting Procedure.ppt
+week03-170304-09-PS-week 03 task
+week03-170304-12-LR-About : sudo From : youtube video
+
