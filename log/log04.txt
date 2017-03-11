@@ -1,0 +1,9 @@
+w04-170306-10-LR-About : Introduction to Pointer in c , From : Lecturer
+w04-170306-11-LR-Demo session from Lecturer
+w04-170307-19-PS-About : Pointer in c , From : demo files from lecturer
+w04-170308-10-LR-About : Introduction to I/O programming, From : Lecturer
+w04-170308-11-LR-Demo session from lecturer
+w04-170310-21-PS-Week 04 Task
+w04-170311-01-LR-About : global and local variables , From : http://pages.cs.wisc.edu/~calvin/cs110/LOCAL_GLOBAL.html
+w04-170311-02-LR-About : file permission in c, From : http://www.filepermissions.com/file-permission/0711
+
