@@ -1,0 +1,5 @@
+w05-170314-13-LR-About : Memory and Paging, From : Arsip RMS, Bahan Ajar Lama Week 06
+w05-170316-10-LR-About : Memory and Paging, From : Arsip RMS, Bahan Ajar Lama Week 06
+w05-170317-19-LR-About : top command in linux, From : http://www.binarytides.com/linux-top-command/
+w05-170317-20-LR-About : malloc and system function in c, From : https://www.tutorialspoint.com/c_standard_library/
+w05-170318-09-PS-Week 05 Task
