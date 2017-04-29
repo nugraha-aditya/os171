@@ -1,1 +1,4 @@
-
+w08-170425-10-LR-About : Scheduling, From : Lecturer
+w08-170427-10-LR-About : Scheduling and File system, From : Lecturer
+w08-170428-14-PS-About : Socket
+w08-170415-09-PS-Week 06 Task
